@@ -1,6 +1,6 @@
 {
     "name": "sukohi/japanese-prefectures",
-    "description": "",
+    "description": "A PHP package mainly developed for Laravel to manage Japanese prefectures.",
     "authors": [
         {
             "name": "Sukohi",
