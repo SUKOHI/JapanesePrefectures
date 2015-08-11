@@ -3,6 +3,9 @@ JapanesePrefectures
 
 A PHP package mainly developed for Laravel to manage Japanese prefectures.
 
+**Note:**
+This package was integrated into [Wafu](https://github.com/SUKOHI/Wafu).
+
 Installation&setting for Laravel
 ====
 
